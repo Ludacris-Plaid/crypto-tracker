@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import chart from '../logos/chart.png';
+import logo from '../logos/logo.png';
 import btc from '../logos/btc.png';
 import eth from '../logos/eth.png';
 import link from '../logos/link.png';
@@ -120,7 +120,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src={chart} width="30" height="30" className="d-inline-block align-top" alt="" />
+            <img src={logo} width="30" height="30" className="d-inline-block align-top" alt="" />
             Crypt0 Track3r
           </a>
           {this.state.loading ? <div id="loader" className="nav-item text-nowrap d-none d-sm-none d-sm-block">fetching data...</div> :
