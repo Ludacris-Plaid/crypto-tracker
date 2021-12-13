@@ -30,7 +30,7 @@ class App extends Component {
       "headers":{
         "content-type":"application/octet-stream",
         "x-rapidapi-host":"coinpaprika1.p.rapidapi.com",
-        "x-rapidapi-key": rapidApi,
+        "x-rapidapi-key": "2c601b3b32msh064b8868b8ec3fap1503e7jsn7220e561b8c8",
         "useQueryString":true
       }
     })
