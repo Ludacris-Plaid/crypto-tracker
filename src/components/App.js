@@ -150,7 +150,7 @@ class App extends Component {
                         <th scope="col">Rank</th>
                         <th scope="col">Logo</th>
                         <th scope="col">Crypto</th>
-                        <th scope="col">Price</th>
+                        <th scope="col">Price (USD)</th>
                         <th scope="col">Market Cap</th>
                       </tr>
                     </thead>
